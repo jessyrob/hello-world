@@ -5,6 +5,10 @@ Hey Everyone!
 
 This is Jessy and I am new to this. I will try not to mess anything up. Thanks!
 
+	</> This is suppose to be code </>
+	
+	`This is a note about this code`
+
 `Code I stole from Wiki`
 
 Public Module StarsProgram
@@ -32,3 +36,5 @@ Public Module StarsProgram
       Console.WriteLine("Goodbye {0}", userName)
    End Sub
 End Module
+
+
